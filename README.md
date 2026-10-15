@@ -9,7 +9,7 @@ I'm a Systems Engineering student, with experience in backends, APIs, DevOps and
 - [LinkedIn](www.linkedin.com/in/andrés-felipe-mendoza-henao-a20103332)
 
 ## 🎓 I'm learning at this moment...
-- 🌱 I’m currently learning Computer Graphics Programming, using C++, and also planning to laern the <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="80" alt="Vulkan" align="middle"/> API
+- 🌱 I’m currently learning Computer Graphics Programming, using C++, and also planning to learn the <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="80" alt="Vulkan" align="middle"/> API
 
 <!--
 **andresmendoza59/andresmendoza59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
