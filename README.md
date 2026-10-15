@@ -6,7 +6,7 @@ I'm a Systems Engineering student, with experience in backends, APIs, DevOps and
 ![My Skills](https://skillicons.dev/icons?i=rust,java,spring,gradle,py,ubuntu,linux,mysql,sqlite,postgres,postman,docker,kubernetes,gcp,git,vim)
 
 ## 📫 Connect With Me
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andr%C3%A9s-felipe-mendoza-henao-a20103332/?isSelfProfile=true)
+- [LinkedIn](www.linkedin.com/in/andrés-felipe-mendoza-henao-a20103332)
 
 ## 🎓 I'm learning at this moment...
 - 🌱 I’m currently learning Computer Graphics Programming, using C++, and also planning to laern the <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="80" alt="Vulkan" align="middle"/> API
