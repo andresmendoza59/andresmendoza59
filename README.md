@@ -8,10 +8,8 @@ I'm a Systems Engineering student, with experience in backends, APIs, DevOps and
 ## 📫 Connect With Me
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andr%C3%A9s-felipe-mendoza-henao-a20103332/?isSelfProfile=true)
 
-## 🎓 I'm learning at this moment 
-- 🌱 I’m currently learning Computer Graphics Programming, using C++, and I'm planning to also learn the <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="80" alt="Vulkan" align="middle"/> API
-
-![C++](https://skillicons.dev/icons?i=cpp)
+## 🎓 I'm learning at this moment...
+- 🌱 I’m currently learning Computer Graphics Programming, using C++, and I'm planning to also add the <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="80" alt="Vulkan" align="middle"/> API
 
 
 <!--
