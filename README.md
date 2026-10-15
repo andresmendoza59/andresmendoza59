@@ -8,13 +8,17 @@ I'm a Systems Engineering student, with experience in backends, APIs, DevOps and
 ## 📫 Connect With Me
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andr%C3%A9s-felipe-mendoza-henao-a20103332/?isSelfProfile=true)
 
+## 🎓 I'm learning at this moment 
+![C++](https://skillicons.dev/icons?i=cpp)
+- 🌱 I’m currently learning Computer Graphics Programming, using C++, and I'm planning to also learn the Vulkan API
+<img src="https://cdn.simpleicons.org/vulkan/AC162C" height="32" alt="Vulkan" />
+
 <!--
 **andresmendoza59/andresmendoza59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
