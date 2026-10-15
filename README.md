@@ -4,7 +4,7 @@ I'm a Systems Engineering student, with experience in backends, APIs, DevOps and
 
 ## 🛠️ Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=https://raw.githubusercontent.com/rust-lang/rust-artwork/7b54b6689dc310db2f301d7bcda847f016bd447c/mascot/ferris-flat-happy.svg&logoSize=auto)
-![Java]([https](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=https://static.wikia.nocookie.net/sa-nc-c/images/a/a4/Duke_%28Java_mascot%29_waving.svg.png&logoSize=auto)
+![Java]([https](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=https://github.com/andresmendoza59/andresmendoza59/blob/main/Duke.webp)&logoSize=auto)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
